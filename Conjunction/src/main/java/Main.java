@@ -40,8 +40,4 @@ public class Main {
             System.out.println(conjunctAll(predicates).test(0));
         }
     }
-
-    public static <T> Predicate<T> xor(Predicate<T> predicate1, Predicate<T> predicate2) {
-        return t -> (predicate1.and(predicate2)).negate().test(t);
-    }
 }
