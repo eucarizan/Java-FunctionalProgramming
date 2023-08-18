@@ -5,7 +5,8 @@ public class Main {
     private static final long DELAY_MS = 1;
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        RetryUtils.retry.run(() -> System.out.println(scanner.nextLine()), MAX_ATTEMPTS, DELAY_MS);
+        try (Scanner scanner = new Scanner(System.in)) {
+            RetryUtils.retry.run(() -> System.out.println(scanner.nextLine()), MAX_ATTEMPTS, DELAY_MS);
+        }
     }
 }
