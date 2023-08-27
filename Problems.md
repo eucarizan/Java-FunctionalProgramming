@@ -18,6 +18,7 @@
 [monadic calculator](./MonadicCalculator/README.md)|what is a monad
 [naive task management](./NaiveTaskMgt/README.md)|standard functional interfaces
 [phonebook](./Phonebook/README.md)|handling collections with functions
+[printing pro users](./PrintingPROUsers/README.md)|optionals
 [replace digits](./ReplaceDigits/README.md)|lambda expressions
 [retrying actions](./RetryingActions/README.md)|method references
 [sorting accounts](./SortingAccounts/README.md)|sorting data with function
