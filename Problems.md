@@ -2,6 +2,7 @@
 
 - [Java Functional Programming](#java-functional-programming)
   - [Problems](#problems)
+  - [Add more features](#add-more-features)
 
 ## Problems
 |problems|topics|
@@ -32,3 +33,7 @@
 [java events](./JavaEvents/README.md)|filtering and skipping elements by conditions
 [max even number](./MaxEvenNumber/README.md)|filtering and skipping elements by conditions
 [online job finder](./OnlineJobFinder/README.md)|filtering and skipping elements by conditions
+[processing numbers](./ProcessingNumbers/README.md)|filtering and skipping elements by conditions
+
+## Add more features
+- online job finder

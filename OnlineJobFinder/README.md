@@ -36,3 +36,6 @@ Junior Java Developer|Google|1
 ## Tags
 - data processing with streams
 - filtering and skipping elements by conditions
+
+## Todo
+- implement handling concurrency
