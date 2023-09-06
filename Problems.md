@@ -30,3 +30,4 @@
 [process number stream](./ProcessNumberStream/README.md)|introduction to stream api
 [processing delivery orders](./ProcessingDeliveryOrders/README.md)|introduction to stream api
 [java events](./JavaEvents/README.md)|filtering and skipping elements by conditions
+[max even number](./MaxEvenNumber/README.md)|filtering and skipping elements by conditions
