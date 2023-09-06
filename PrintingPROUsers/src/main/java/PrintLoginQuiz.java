@@ -11,6 +11,12 @@ public class PrintLoginQuiz {
                         .filter(account -> account.getId().equals(id) && "pro".equals(account.getType()))
                         .ifPresent(u -> System.out.println(user.getLogin()))
         );
+
+//        users.stream()
+//                .filter(user -> user.getAccount().isPresent() && user.getAccount().get().getId().equals(id))
+//                .filter(user -> user.getAccount().get().getType().equalsIgnoreCase("pro"))
+//                .map(User::getLogin)
+//                .forEach(System.out::println);
     }
 
     public static void printLoginIfProNJ(Set<User> users, String id) {

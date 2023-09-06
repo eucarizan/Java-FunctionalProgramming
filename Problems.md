@@ -25,3 +25,4 @@
 [ternary predicate](./TernaryPredicate/README.md)|standard functional interfaces
 [tree of ranges](./TreeOfRanges/)|sorting data with functional comparators
 [xor predicate](./XORPredicate/README.md)|composition of functions
+[printing out numbers](./PrintingOutNumbers/README.md)|introduction to stream api
