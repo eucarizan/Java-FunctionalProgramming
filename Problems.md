@@ -27,3 +27,4 @@
 [xor predicate](./XORPredicate/README.md)|composition of functions
 [printing out numbers](./PrintingOutNumbers/README.md)|introduction to stream api
 [merging employees](./MergingEmployees/README.md)
+[process number stream](./ProcessNumberStream/README.md)
