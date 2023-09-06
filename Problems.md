@@ -26,5 +26,6 @@
 [tree of ranges](./TreeOfRanges/)|sorting data with functional comparators
 [xor predicate](./XORPredicate/README.md)|composition of functions
 [printing out numbers](./PrintingOutNumbers/README.md)|introduction to stream api
-[merging employees](./MergingEmployees/README.md)
-[process number stream](./ProcessNumberStream/README.md)
+[merging employees](./MergingEmployees/README.md)|introduction to stream api
+[process number stream](./ProcessNumberStream/README.md)|introduction to stream api
+[processing delivery orders](./ProcessingDeliveryOrders/README.md)|introduction to stream api
