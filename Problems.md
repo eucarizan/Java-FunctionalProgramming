@@ -38,6 +38,7 @@
 [medical software](./MedicalSoftware/README.md)|finding and matching elements
 [suspect](./Suspects/README.md)|collecting stream elements
 [error and warn logs](./ErrorAndWarnLogs/README.md)|collecting stream elements
+[the competition](./TheCompetition/README.md)|collecting stream elements
 
 ## Add more features
 - online job finder
