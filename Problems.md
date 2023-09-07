@@ -37,7 +37,7 @@
 [the first suitable word](./TheFirstSuitableWord/README.md)|finding and matching elements
 [medical software](./MedicalSoftware/README.md)|finding and matching elements
 [suspect](./Suspects/README.md)|collecting stream elements
-<!-- [error and warn logs](./ErrorAndWarnLogs/README.md)|collecting stream elements -->
+[error and warn logs](./ErrorAndWarnLogs/README.md)|collecting stream elements
 
 ## Add more features
 - online job finder
