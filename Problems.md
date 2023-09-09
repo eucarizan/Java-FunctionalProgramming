@@ -44,6 +44,7 @@
 [absolute values](./AbsoluteValues/README.md)|transforming elements
 [countries](./Countries/README.md)|transofrming elements
 [total number of employees](./TotalNumberOfEmployees/README.md)|transforming elements
+[absolute sum](./AbsoluteSum/README.md)|reduction
 
 ## Add more features
 - online job finder
@@ -52,3 +53,4 @@
 - absolute values
 - countries
 - total number of employees
+- absolute sum
