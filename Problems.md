@@ -40,6 +40,7 @@
 [error and warn logs](./ErrorAndWarnLogs/README.md)|collecting stream elements
 [the competition](./TheCompetition/README.md)|collecting stream elements
 [average salary](./AverageSalary/README.md)|collecting stream elements
+[absolute values](./AbsoluteValues/README.md)|transforming elements
 
 ## Add more features
 - online job finder
