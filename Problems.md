@@ -41,6 +41,7 @@
 [the competition](./TheCompetition/README.md)|collecting stream elements
 [average salary](./AverageSalary/README.md)|collecting stream elements
 [absolute values](./AbsoluteValues/README.md)|transforming elements
+[countries](./Countries/README.md)|transofrming elements
 
 ## Add more features
 - online job finder
