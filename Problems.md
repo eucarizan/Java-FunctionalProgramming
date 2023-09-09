@@ -3,6 +3,7 @@
 - [Java Functional Programming](#java-functional-programming)
   - [Problems](#problems)
   - [Add more features](#add-more-features)
+  - [Add more tests](#add-more-tests)
 
 ## Problems
 |problems|topics|
@@ -42,6 +43,12 @@
 [average salary](./AverageSalary/README.md)|collecting stream elements
 [absolute values](./AbsoluteValues/README.md)|transforming elements
 [countries](./Countries/README.md)|transofrming elements
+[total number of employees](./TotalNumberOfEmployees/README.md)|transforming elements
 
 ## Add more features
 - online job finder
+
+## Add more tests
+- absolute values
+- countries
+- total number of employees
