@@ -45,6 +45,7 @@
 [countries](./Countries/README.md)|transofrming elements
 [total number of employees](./TotalNumberOfEmployees/README.md)|transforming elements
 [absolute sum](./AbsoluteSum/README.md)|reduction
+[combining predicates](./CombiningPredicates/README.md)|reduction
 
 ## Add more features
 - online job finder
