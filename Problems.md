@@ -51,6 +51,7 @@
 [isograms](./Isograms/README.md)|primitive type streams
 [sum of numbers](./SumOfNumbers/README.md)|primitive type streams
 [average monthly salary](./AverageMonthlySalary/README.md)|primitive type streams
+[cost partitioning](./CostPartitioning/README.md)|grouping elements using collectors
 
 ## Add more features
 - online job finder
