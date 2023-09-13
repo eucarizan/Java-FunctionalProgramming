@@ -46,6 +46,7 @@
 [total number of employees](./TotalNumberOfEmployees/README.md)|transforming elements
 [absolute sum](./AbsoluteSum/README.md)|reduction
 [combining predicates](./CombiningPredicates/README.md)|reduction
+[inflation problem](./InflationProblem/README.md)|reduction
 
 ## Add more features
 - online job finder
