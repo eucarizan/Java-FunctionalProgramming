@@ -47,6 +47,7 @@
 [absolute sum](./AbsoluteSum/README.md)|reduction
 [combining predicates](./CombiningPredicates/README.md)|reduction
 [inflation problem](./InflationProblem/README.md)|reduction
+[generating users](./GeneratingUsers/README.md)|creating infinite streams
 
 ## Add more features
 - online job finder
