@@ -49,6 +49,7 @@
 [inflation problem](./InflationProblem/README.md)|reduction
 [generating users](./GeneratingUsers/README.md)|creating infinite streams
 [isograms](./Isograms/README.md)|primitive type streams
+[sum of numbers](./SumOfNumbers/README.md)|primitive type streams
 
 ## Add more features
 - online job finder
