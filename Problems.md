@@ -54,6 +54,7 @@
 [cost partitioning](./CostPartitioning/README.md)|grouping elements using collectors
 [grouping words](./GroupingWords/README.md)|grouping elements using collectors
 [monitoring user activity](./MonitoringUserActivity/README.md)|grouping elements using collectors
+[xml tags](./XmlTags/README.md)|grouping elements using collectors
 
 ## Add more features
 - online job finder
