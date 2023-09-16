@@ -55,6 +55,7 @@
 [grouping words](./GroupingWords/README.md)|grouping elements using collectors
 [monitoring user activity](./MonitoringUserActivity/README.md)|grouping elements using collectors
 [xml tags](./XmlTags/README.md)|grouping elements using collectors
+[parallel prime numbers](./ParallelPrimeNumbers/README.md)|parallel streams
 
 ## Add more features
 - online job finder
